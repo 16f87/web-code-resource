@@ -6,11 +6,6 @@
   animation-duration: 3s;
   animation-name: slidein;
 }
-.test{
-  background-color: red;
-  width: 100%;
-  height: 10px;
-}
 
 @keyframes slidein {
   from {
@@ -24,5 +19,5 @@
   }
 }
 .teal-background-color{
-background-color: #439788;
+  background: linear-gradient(0deg, rgba(0,212,255,1) 0%, rgba(0,9,12,1) 100%);
 }

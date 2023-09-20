@@ -1,0 +1,19 @@
+body{
+}
+
+body {
+    min-height: 100vh;
+    font-family: "Roboto", sans-serif, Arial, Helvetica;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #f5f9ff;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
